@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Institute App</string>
+    <string name="home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login_here">Login Here</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_am_new_user_sign_up">I am new user! Sign Up</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="attendance">Attendance</string>
+    <string name="courses">Courses</string>
+    <string name="notifications">Notifications</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="forum">Forum</string>
+    <string name="post">Post</string>
+</resources>
